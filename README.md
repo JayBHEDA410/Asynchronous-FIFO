@@ -10,11 +10,11 @@ The Asynchronous FIFO is a widely used data structure in digital design for buff
 # Features
 --> Suitable for interfacing between two clock domains with different frequencies.
 
-Configurable Depth: Easily adjustable FIFO depth to meet specific requirements.
+--> Configurable Depth: Easily adjustable FIFO depth to meet specific requirements.
 
-Binary to Gray Conversion: Utilizes binary to Gray code conversion to reduce errors in addressing.
+--> Binary to Gray Conversion: Utilizes binary to Gray code conversion to reduce errors in addressing.
 
-used synchronizer circuits to prevent metastability issues between asynchronous clock domains.
+--> used synchronizer circuits to prevent metastability issues between asynchronous clock domains.
 
 # Files
 README.md: This file contains information about the project.
