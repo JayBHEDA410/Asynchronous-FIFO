@@ -16,6 +16,13 @@ Binary to Gray Conversion: Utilizes binary to Gray code conversion for addressin
 
 used synchronizer circuits to prevent metastability issues between asynchronous clock domains.
 
+# Files
+
+fifo.v: Verilog module containing the asynchronous FIFO implementation.
+transmitter_test/: Folder containing Verilog testbenches to validate the transmitter module.
+receiver_test/: Folder containing Verilog testbenches to validate the receiver module.
+README.md: This file, containing information about the project.
+
 # testing
 
 The test_Asynchronous_FIFO file contains a Verilog testbench to validate the functionality of the FIFO module. Simulation can be performed using a Verilog simulator such as ModelSim or QuestaSim.
