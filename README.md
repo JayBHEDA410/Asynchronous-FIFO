@@ -19,7 +19,7 @@ The Asynchronous FIFO is a widely used data structure in digital design for buff
 # Files
 README.md: This file contains information about the project.
 
-test_Asynchronous_FIFO: this file contain a Verilog testbench to validate the Asynchronous FIFO module.
+test_Asynchronous_FIFO: This file contains a Verilog testbench to validate the Asynchronous FIFO module.
 
 # testing
 
