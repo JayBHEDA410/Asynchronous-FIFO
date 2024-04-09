@@ -12,6 +12,10 @@ Suitable for interfacing between two clock domains with different frequencies.
 
 Configurable Depth: Easily adjustable FIFO depth to meet specific requirements.
 
+Binary to Gray Conversion: Utilizes binary to Gray code conversion for addressing to mitigate glitches.
+
+used synchronizer circuits to prevent metastability issues between asynchronous clock domains.
+
 # testing
 
 The test_Asynchronous_FIFO file contains a Verilog testbench to validate the functionality of the FIFO module. Simulation can be performed using a Verilog simulator such as ModelSim or QuestaSim.
