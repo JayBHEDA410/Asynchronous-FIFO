@@ -12,7 +12,7 @@ Suitable for interfacing between two clock domains with different frequencies.
 
 Configurable Depth: Easily adjustable FIFO depth to meet specific requirements.
 
-Binary to Gray Conversion: Utilizes binary to Gray code conversion for addressing to mitigate glitches.
+Binary to Gray Conversion: Utilizes binary to Gray code conversion to reduce errors in addressing.
 
 used synchronizer circuits to prevent metastability issues between asynchronous clock domains.
 
