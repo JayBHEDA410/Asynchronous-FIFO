@@ -18,7 +18,7 @@ used synchronizer circuits to prevent metastability issues between asynchronous 
 
 # Files
 
-fifo.v: Verilog module containing the asynchronous FIFO implementation.
+f: Verilog module containing the asynchronous FIFO implementation.
 transmitter_test/: Folder containing Verilog testbenches to validate the transmitter module.
 receiver_test/: Folder containing Verilog testbenches to validate the receiver module.
 README.md: This file, containing information about the project.
