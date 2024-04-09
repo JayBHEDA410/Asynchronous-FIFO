@@ -8,7 +8,7 @@ The Asynchronous FIFO is a widely used data structure in digital design for buff
 
 
 # Features
-Suitable for interfacing between two clock domains with different frequencies.
+--> Suitable for interfacing between two clock domains with different frequencies.
 
 Configurable Depth: Easily adjustable FIFO depth to meet specific requirements.
 
